@@ -1,0 +1,17 @@
+{
+  "name": "아스테라 — 제물의 검",
+  "short_name": "아스테라",
+  "description": "배신의 끝에서 돌아온 검사 · 판타지 핵앤슬래시",
+  "start_url": "./",
+  "scope": "./",
+  "display": "fullscreen",
+  "display_override": ["fullscreen", "standalone"],
+  "orientation": "any",
+  "background_color": "#0a0807",
+  "theme_color": "#0a0807",
+  "lang": "ko",
+  "icons": [
+    {"src": "icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any maskable"},
+    {"src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable"}
+  ]
+}
